@@ -1,0 +1,45 @@
+{
+	"patcher" : 	{
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "bpatcher",
+					"viewvisibility" : 1,
+					"offset" : [ 0.0, 0.0 ],
+					"lockeddragscroll" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"lockedsize" : 0,
+					"bgmode" : 0,
+					"border" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 10.0, 10.0, 187.0, 150.0 ],
+					"id" : "obj-34",
+					"name" : "mlg.audio-visualizer.maxpat",
+					"numinlets" : 1
+				}
+
+			}
+ ],
+		"appversion" : 		{
+			"major" : 8,
+			"minor" : 5,
+			"revision" : 0,
+			"architecture" : "x64",
+			"modernui" : 1
+		}
+,
+		"classnamespace" : "box",
+		"description" : "187 x 150, containing 1 object",
+		"tags" : "",
+		"snippetinfo" : 		{
+			"name" : "audio-visualizer",
+			"objects" : "jpatcher",
+			"tags" : "",
+			"description" : "187 x 150, containing 1 object",
+			"image" : "iVBORw0KGgoAAAANSUhEUgAAALsAAACWCAYAAACGovmCAAAABHNCSVQICAgIfAhkiAAAAvBJREFUeJzt2DFO42gcxuE/SUwCQpS+Qg6ycr+1xRWmoZxD0OwVkC9h7UFSuk1FAcjNii1WG9FnMp7hfZ4msav3k376FOVqmqaPggCb/7/M81zDMNQ4jnU8HpfcBGdp27a6rqu+72u3253eX03T9DHPcz0+PtbhcFhwIvxY+/2+np6eTsGvqqqGYRA6X87hcKhhGE7Pq6qqcRwXGwSX9LntVVX5jc6X9bnt1YI74KcSOzHETgyxE0PsxBA7McRODLETQ+zEEDsxxE4MsRND7MQQOzHETgyxE0PsxBA7McRODLETQ+zEEDsxxE4MsRND7MQQOzHETgyxE2NTVfXtj/XSO+Di3OzE2FRV/fX3P0vvgIv58/t/n252YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJsaqqatt26R1wEZ/bXlVVdV232Bi4pM9tr6qq+r6v/X6/2CC4hP1+X33fn56vpmn6qKqa57mGYahxHOt4PC42EM7Vtm11XVd939dutzu9P8UOX51/Y4ixqap6eHhYesfZttttrdfren9/X3rKWa6vr6tpmnp7e1t6ylmapqntdluvr69LT6nn5+eqcrMTZFNV9fLysvSOs93f31fTNL/9We7u7urm5ua3P8ft7W2t1+tf6hxudmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhiJ4bYiSF2YoidGGInhtiJIXZiiJ0YYieG2IkhdmKInRhX0zR9LD0CfgY3OzH+BZvoaAXohEseAAAAAElFTkSuQmCC"
+		}
+
+	}
+
+}
