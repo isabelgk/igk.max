@@ -1,0 +1,41 @@
+{
+	"boxes" : [ 		{
+			"box" : 			{
+				"maxclass" : "live.gain~",
+				"varname" : "live.gain~",
+				"orientation" : 1,
+				"patching_rect" : [ 295.275606215000153, 374.80316948890686, 156.0, 41.0 ],
+				"numinlets" : 1,
+				"lastchannelcount" : 0,
+				"numoutlets" : 4,
+				"channels" : 1,
+				"parameter_enable" : 1,
+				"id" : "obj-12",
+				"outlettype" : [ "signal", "", "float", "list" ],
+				"saved_attribute_attributes" : 				{
+					"valueof" : 					{
+						"parameter_longname" : "live.gain~",
+						"parameter_mmax" : 6.0,
+						"parameter_mmin" : -70.0,
+						"parameter_shortname" : "live.gain~",
+						"parameter_type" : 0,
+						"parameter_unitstyle" : 4
+					}
+
+				}
+
+			}
+
+		}
+ ],
+	"appversion" : 	{
+		"major" : 8,
+		"minor" : 2,
+		"revision" : 0,
+		"architecture" : "x64",
+		"modernui" : 1
+	}
+,
+	"classnamespace" : "box",
+	"preview_image" : [ 739, "png", "IBkSG0fBZn....PCIgDQRA...jB...PJHX.....pfAf8....DLmPIQEBHf.B7g.YHB..BnYRDEDUXUX6WFCRiDDFF8k3FMP.AifUtUpfwBAAIZHfJIEQQDs0ZAAEkfVofhfVYSJTKDDqsSQvN2zHnfMQSgfHjHaQTYKDEbAQc2bEG2fAuSt3MfWf4Us+y2N+yiY1hc7XZZVj+yw62s.+MnjTVnjTVnjTVnjTVnjTVTQHo1udHd73emd7oTQrSpjTVTQHoG0elKITRJKTRJKTRJKTRJKTRJKTRJK9fjqs1ZzYmcxfCNHWbwEeXBFFFzWe8QznQY2c28Sa9HiLBO7vCjLYR5s2do+96mUWcUbbb95RdzQGwN6rCas0VjHQBlZpov00Uj+3iORxjIYlYlgkWdYVbwEoPgB+wlaZZhiiC2d6sL8zSSpTovvvfCN3futjGd3gjHQB5niNXxImjBEJPtb4D4Ge7wnqqyvCOLwiGm1aucRmNcIMb6s2lHQhvXiMF111hwCDH.0Vas3ymOd80WKKI0degkkEwhE6mAZZzTSMgkkEszRKh7VasUw6GJTHrrrD02byMr4laxd6sGYxjACCCQ17yOOttt7zSOQnPgJKIKYmLXvfjOed.v00ESSSBFLnHut5piqu9ZQc974o95qWTexImP3vgowFajgFZH762uHKUpTjMaVlc1YYkUV4qKYznQwvvf6t6N1e+8IPf.zbyMy4meN4xkivgCyUWcEmc1Yb4kWRlLYHRjHh42VasQ1rYw11lSO8Td94mKYwd6s2v11lFZngxRxRNtGXfAHc5zzSO8PM0TCqu953ymO1XiMPWWmkVZIlat4XzQGkhEKxDSLwGN9iEKFc0UWnqqS0UWMd73A.Fe7wQSSit6taVXgEJKI+sWDy11F+98SUUUE.333fWudEK3Ku7Btttkbb9dt+96K4yj+UpHts3Ov9b9dw47GDI.....PRE4DQtJDXBB" ]
+}

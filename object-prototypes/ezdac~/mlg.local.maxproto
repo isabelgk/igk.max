@@ -1,0 +1,24 @@
+{
+	"boxes" : [ 		{
+			"box" : 			{
+				"maxclass" : "ezdac~",
+				"local" : 1,
+				"numinlets" : 2,
+				"patching_rect" : [ 127.0, 391.0, 48.25, 48.25 ],
+				"numoutlets" : 0,
+				"id" : "obj-3"
+			}
+
+		}
+ ],
+	"appversion" : 	{
+		"major" : 8,
+		"minor" : 5,
+		"revision" : 0,
+		"architecture" : "x64",
+		"modernui" : 1
+	}
+,
+	"classnamespace" : "box",
+	"preview_image" : [ 897, "png", "IBkSG0fBZn....PCIgDQRA....C....LHX....vUBj+g....DLmPIQEBHf.B7g.YHB..CfSRDEDUnEX6Xt0apxDEF9wgyfAOU0zh1+D8++ekdAZQZ5AaDO.BneWXjTio68P2fluDeth.CqY8xrl0Zwz3omdZO+OFw01A9W4l.t1bS.WatIfqM2Dv0lZW.lllztc6Zy90p.bbbXznQHD02znVWFtUqVLXv.ZznQcME.0j.50qG850qNL8YT4BX3vgzpUqp1r+HUVvYiFM3gGdnzNeqVs396u+WGpUIq.Bg.OOOrrrJ06YYYUrOQWWmoSmRdddorgzBPSSCaa6y9RIDBZ2tMppk+aQVVFa2tECCCLLLXznQ366y98x+OVRMqBgfGe7QTTTJsSBb16ooowvgCILLDeee777v11FCCih6KKRsGvxx5W67.nqqWbsppJiFMBaaaFOdLJJJ7xKuPRRB.355VpPQoDPUVHJOOuvY0zzvyyC.BCCKBcJSJ3KVuPJJJLXv.LMMIHHfkKWB.FFFzueeRRRJtmsssz6otXBPSSi1say3wi4t6tiYylw1saANjJUUUknnnhwaaaKkcunq.Goa2tnqqyGe7AvgZHNNNDGGWLluuu4OwEaOvpUqHLLj33XVtbIBgf0qWW7bMMsSpAH6bJ0n1saWIc2yQWWmNc5fooIMa1D3fSej777SpwHasfKVHjppJFFF.v50qYylMmjsYylMEOGfzzTor6ES.ooore+dhhhHHHfd85giiCvAAEGGWrx.GDjLHUtpxTZ+mHMMkme9Yxyyoe+9zoSGfCgNu95qHDBbccKF6wZE+MjZEHII4eRDYYY.GbVGGmBme2tcDDDPZZJCFLnHS074yk11RsBjllRXXHMa17rl4TTTvzz7O1N72imWsZEe94m355VzBQ2tcK95mjjvWe8U0J..hhhNoPy2wzzDOOOo6W582em4ymeV3ztc6X1rYx5R.Uzl333X788kNyAbHbx008rvoiUmkkJKKTZZJ999mTM8uwhEKHJJhrrLlLYxIE1jkJ8ehyyyYxjIE82KCgggHDhR+mXGoxqCre+dlNcJKVrP5w+acdnFKjEFFVpzg+VpsC1Bf2d6Mxxxp0C2pVE.bnnTcdzhWjdgphtY+Itc75WatIfqM2Dv0laB3Zy+UwqAQ6bqEtT.....jTQNQjqBAlf" ]
+}

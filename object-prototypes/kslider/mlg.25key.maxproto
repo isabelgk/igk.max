@@ -1,0 +1,27 @@
+{
+	"boxes" : [ 		{
+			"box" : 			{
+				"maxclass" : "kslider",
+				"range" : 25,
+				"id" : "obj-12",
+				"parameter_enable" : 0,
+				"offset" : 48,
+				"numinlets" : 2,
+				"patching_rect" : [ 47.0, 39.0, 165.0, 49.0 ],
+				"numoutlets" : 2,
+				"outlettype" : [ "int", "int" ]
+			}
+
+		}
+ ],
+	"appversion" : 	{
+		"major" : 8,
+		"minor" : 2,
+		"revision" : 0,
+		"architecture" : "x64",
+		"modernui" : 1
+	}
+,
+	"classnamespace" : "box",
+	"preview_image" : [ 206, "png", "IBkSG0fBZn....PCIgDQRA...DC...PLHX....vbbFDG....DLmPIQEBHf.B7g.YHB...TXRDEDUnEX6XGjB.BBFED9U3IHnt+muB5JTaiHjj1LFy2V+McncNjjiz4JIIaq6Ot37xT0MecesL6SmyWtCiUmnSXDTXDTXDTXDTXDTXDTXDTXDTXDTXDTXDTXDTXDTTps382Gs1al1xrs3Me2eweBifBifBifBifBifBifBifBifBifhS.J0XHwAnOr6K.....IUjSD4pPfIH" ]
+}
