@@ -1,5 +1,5 @@
-# melange
+# igk.max
 
-A potpourri of Max abstractions, patches, snippets and more.
+A max package of stuff.
 
 Install in the `~/Documents/Max 8/Packages` directory.
